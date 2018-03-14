@@ -59,4 +59,3 @@ C:\Users\SravanthiVelaga(Inte\source\repos\Blah\Project.Server\obj\Debug\Project
 C:\Users\SravanthiVelaga(Inte\source\repos\Blah\Project.Server\bin\Microsoft.Owin.Cors.dll
 C:\Users\SravanthiVelaga(Inte\source\repos\Blah\Project.Server\bin\System.Web.Cors.dll
 C:\Users\SravanthiVelaga(Inte\source\repos\Blah\Project.Server\bin\Microsoft.Owin.Cors.xml
-C:\Users\SravanthiVelaga(Inte\source\repos\Blah\Project.Server\obj\Debug\Project.Server.csprojResolveAssemblyReference.cache
